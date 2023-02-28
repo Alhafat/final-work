@@ -6,7 +6,7 @@
 
 string[] GetArray()
 {
-    string[] array = { "hello", "world", "345", "40", "commit" };
+    string[] array = { "hello", "world", "345", "40", "commit", "564" };
     return array;
 }
 
